@@ -1,0 +1,3 @@
+Participant 1 mood: Happy
+Participant 2 mood: Sad
+Participant 3 mood: Content
